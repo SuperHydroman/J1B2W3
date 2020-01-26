@@ -8,7 +8,6 @@ html, body {
 	color: rgb(80, 80, 80);
 	font-family: 'Comfortaa', cursive;
 	/*font-family: 'Archivo', sans-serif;*/
-	cursor: url(../img/Normal.cur);
 }
 
 .container {
@@ -215,7 +214,7 @@ footer {
 		margin: initial;
 		position: initial;
 		z-index: initial;
-		width: 18vw;
+		width: 13vw;
 	}
 
 	/* NAVBAR */
